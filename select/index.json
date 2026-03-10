@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Dance Again",
+  "base_artist": "TWICE",
+  "createdAt": "2026-03-10T07:29:28.382847Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Gonna Dance Again",
+      "artist": "Sugababes",
+      "has_synced": true,
+      "path": "select/01_Never_Gonna_Dance_Again_Sugababes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dance Again",
+      "artist": "Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/02_Dance_Again_Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dance Again",
+      "artist": "Selena Gomez",
+      "has_synced": true,
+      "path": "select/03_Dance_Again_Selena_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dance Again",
+      "artist": "Selena Gomez",
+      "has_synced": true,
+      "path": "select/04_Dance_Again_Selena_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dance Again",
+      "artist": "Jennifer Lopez feat. Pitbull",
+      "has_synced": true,
+      "path": "select/05_Dance_Again_Jennifer_Lopez_feat._Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dance Again (feat. Pitbull)",
+      "artist": "Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/06_Dance_Again_(feat._Pitbull)_Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dance Again",
+      "artist": "Jennifer Lopez (ft. Pitbull)",
+      "has_synced": true,
+      "path": "select/07_Dance_Again_Jennifer_Lopez_(ft._Pitbull).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Gonna Not Dance Again",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/08_Never_Gonna_Not_Dance_Again_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'll Never Dance Again",
+      "artist": "Herman's Hermits",
+      "has_synced": true,
+      "path": "select/09_I'll_Never_Dance_Again_Herman's_Hermits.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dance Again (feat. Pitbull)",
+      "artist": "Jennifer Lopez/Pitbull",
+      "has_synced": true,
+      "path": "select/10_Dance_Again_(feat._Pitbull)_Jennifer_Lopez_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dance Again",
+      "artist": "Jennifer Lopez, Pitbull",
+      "has_synced": true,
+      "path": "select/11_Dance_Again_Jennifer_Lopez,_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dance Again",
+      "artist": "Jennifer Lopez",
+      "has_synced": false,
+      "path": "select/12_Dance_Again_Jennifer_Lopez.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dance Again",
+      "artist": "Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/13_Dance_Again_Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let's Start to Dance Again",
+      "artist": "Hamilton Bohannon",
+      "has_synced": false,
+      "path": "select/14_Let's_Start_to_Dance_Again_Hamilton_Bohannon.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dance Again",
+      "artist": "Jennifer Lopez Ft Pitbull",
+      "has_synced": true,
+      "path": "select/15_Dance_Again_Jennifer_Lopez_Ft_Pitbull.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dance Again",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_Dance_Again_TWICE.txt"
+    }
+  ]
+}
